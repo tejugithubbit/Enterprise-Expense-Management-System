@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Expense Management System
 
 This is a React-based project for managing enterprise expenses efficiently. Follow the instructions below to clone, install dependencies, and run the project.
@@ -31,3 +32,6 @@ npm run dev
 ```
 
 This will start the development server, and you can access the application in your browser at `http://localhost:5173/` (default Vite port).
+=======
+# Enterprise-Expense-Management-System
+>>>>>>> 1b5623660e619424bc49a538413f2a178636fbc3
